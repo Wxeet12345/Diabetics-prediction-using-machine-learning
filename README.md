@@ -1,1 +1,0 @@
-# Diabetics-prediction-using-machine-learning
